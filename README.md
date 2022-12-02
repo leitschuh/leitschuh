@@ -52,9 +52,6 @@ I am currently a Master student of Applied Computer Science at the University of
 </p>
 
 *************
-
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=leitschuh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/leitschuh/github-readme-stats)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leitschuh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leitschuh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
